@@ -1,4 +1,4 @@
-# About This Provision Repositor
+# About This Provision Repositorie
 
 English ⋅ [Français](LISEZMOI.md)
 
