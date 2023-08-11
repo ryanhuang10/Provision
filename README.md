@@ -1,6 +1,6 @@
 # About This Provision Repository
 
-English ⋅ [Français](LISEZMOI.md)
+English ⋅ [Français](LISEZMOI.md) . [Chinese]()
 
 > **Warning**  \
 > Don't use your main Apple account! Prefer a secondary Apple account.  \
